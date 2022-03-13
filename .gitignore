@@ -1,0 +1,8 @@
+##Project-wide
+secrets.txt
+test
+# Logs
+logs
+*.log
+*.idea
+__pycache__/
